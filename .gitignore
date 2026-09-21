@@ -1,0 +1,19 @@
+# Ignore hello world test project
+hello-world-ext/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Node
+node_modules/
+
+# Environment files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
